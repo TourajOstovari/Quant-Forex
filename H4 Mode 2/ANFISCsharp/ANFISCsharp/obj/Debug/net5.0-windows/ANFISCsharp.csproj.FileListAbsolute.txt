@@ -1,0 +1,36 @@
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.exe
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.deps.json
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.runtimeconfig.json
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.runtimeconfig.dev.json
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ref\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.pdb
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.csproj.AssemblyReference.cache
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.Form1.resources
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.csproj.GenerateResource.cache
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.AssemblyInfoInputs.cache
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.AssemblyInfo.cs
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ref\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.pdb
+C:\Users\Toraj\Desktop\NN TOOL\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.genruntimeconfig.cache
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.exe
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.deps.json
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.runtimeconfig.json
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.runtimeconfig.dev.json
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ref\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\bin\Debug\net5.0-windows\ANFISCsharp.pdb
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.csproj.AssemblyReference.cache
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.Form1.resources
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.csproj.GenerateResource.cache
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.AssemblyInfoInputs.cache
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.AssemblyInfo.cs
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ref\ANFISCsharp.dll
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.pdb
+C:\Users\Toraj\Desktop\NN TOOL\H4 Mode 2\ANFISCsharp\ANFISCsharp\obj\Debug\net5.0-windows\ANFISCsharp.genruntimeconfig.cache
